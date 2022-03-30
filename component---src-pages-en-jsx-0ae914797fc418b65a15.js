@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklime=self.webpackChunklime||[]).push([[147],{7298:function(e,t,n){n.r(t);var l=n(6771),r=(n(7294),n(13)),i=n(1571),u=n(3431);t.default=function(){return(0,u.tZ)(i.v,{title:"LIME",jpUrl:"/",enUrl:"/en/"},(0,u.tZ)(c,null,(0,u.tZ)("p",null,"EN PAGE")))};var c=(0,l.Z)("section",{target:"eb5n4r60"})("background-color:",r.I.light,";height:100vh;display:flex;align-items:center;justify-content:center;")}}]);
+//# sourceMappingURL=component---src-pages-en-jsx-0ae914797fc418b65a15.js.map
